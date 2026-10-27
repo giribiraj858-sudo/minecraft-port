@@ -164,7 +164,7 @@ did nothing" when they simply never restarted.
 
 ---
 
-*Minecraft · Updated 2026-10-26 · Shared under the MIT License*
+*Minecraft · Updated 2026-10-27 · Shared under the MIT License*
 
 
-Updated 2026-10-26.
+Updated 2026-10-27.
